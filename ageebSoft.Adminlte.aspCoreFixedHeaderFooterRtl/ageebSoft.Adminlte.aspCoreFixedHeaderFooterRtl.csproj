@@ -10,6 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\dist\css\" />
+    <Folder Include="wwwroot\dist\js\" />
     <Folder Include="wwwroot\dist\NewFolder\" />
     <Folder Include="wwwroot\NewFolder\" />
   </ItemGroup>
